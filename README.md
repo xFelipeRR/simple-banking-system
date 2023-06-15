@@ -1,0 +1,2 @@
+# simple banking system
+ Este projeto em Java implementa um sistema bancário básico, permitindo a criação de clientes e contas bancárias com diferentes tipos de conta, como Conta Corrente, Conta Depósito, Conta Poupança e Conta Salário. O objetivo é fornecer uma estrutura flexível para gerenciar informações de clientes e contas, realizar transações bancárias simples e demonstrar a funcionalidade de upgrade de clientes.
