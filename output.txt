@@ -1,0 +1,18 @@
+------------ CLIENTE ------------
+
+Classe = Platinum
+Nome = Rommel
+CPF = 066164589712
+Email = "rommel@gmail.com"
+Renda = 5000.0
+Tempo de Fidelidade = 4
+
+
+
+------------ CONTA ------------
+
+Conta = 29345
+Agencia = 01
+Cliente = Rommel
+Saldo Inicial = 3000.0
+

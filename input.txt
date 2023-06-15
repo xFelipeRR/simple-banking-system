@@ -1,0 +1,8 @@
+Classe = Platinum
+TipoConta = Poupanca
+Nome = Rommel
+CPF = 066164589712
+Email = "rommel@gmail.com"
+Renda= 5000
+Tempo de Fidelidade = 4
+Upgrade = false
